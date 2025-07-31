@@ -1,0 +1,4 @@
+com\paz\pages\RegisterPage.class
+com\paz\tests\LoginTest.class
+com\paz\pages\LoginPage.class
+com\paz\tests\RegisterTest.class

@@ -1,0 +1,7 @@
+﻿email,password,resultadoEsperado
+testuser1,Test@123,exitoso
+usuario2@test.com,12345,fallo
+testuser2,Test@123,exitoso
+usuario4@test.com,password,fallo
+testuser3,Test@123,exitoso
+usuario6@test.com,test123,fallo
